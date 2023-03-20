@@ -1,0 +1,5 @@
+server:
+  port: 4500
+myCustomVariableTree:
+  authCode: xyz458
+  devName: Mohamed
